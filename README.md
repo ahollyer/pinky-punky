@@ -10,9 +10,9 @@ This was a really neat project that taught me a lot about tilemapping, loops, an
 
 Sprites and tiles for this prototype were provided by the amazing [Kenney](http://www.kenney.nl).
 
-####Future Plans
+#### Future Plans
 
-I need to build a boss so that players can actually "win" the game. The boss will need:
+I need to build a boss so that players can actually win the game. The boss will be located at the back of the cave where the level ends. The boss will need:
 
 * Basic AI
 * Life Counter
@@ -22,4 +22,4 @@ I need to build a boss so that players can actually "win" the game. The boss wil
 I am always looking to learn and grow as a programmer. If you have suggestions or want to learn together, feel free to contact me!
 
 Aspen Hollyer
-aspen.dollins@gmail.com
+aspen.hollyer@gmail.com
